@@ -23,4 +23,3 @@ def create_project_hash
   #Returns the projects hash
   projects
 end
-© 2021 GitHub, Inc.
